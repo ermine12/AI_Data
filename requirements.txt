@@ -4,3 +4,6 @@ streamlit==1.46.0
 scipy
 plotly
 scikit-learn
+matplotlib
+seaborn
+numpy  
